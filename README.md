@@ -1,6 +1,6 @@
-# health-info
+# 🌱 health-info
 A website which has articles and information about health and food.
 
-## Website Home Page:
-
-![Test Image 1](https://github.com/tarunj096/health-info/screenshot 2020-06-21 at 1.21.34 PM.png)
+## 🚀 The links related to the project is below: 
+  
+  https://tarunj096.github.io/health-info/healthproject
