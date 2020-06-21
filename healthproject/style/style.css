@@ -1,0 +1,131 @@
+/* **************************
+            Values
+    Font: Staatliches,Sans serif
+    Colors: 
+    1: #2c3e50
+    2. #e74c3c #ff1900;
+*******************************/
+/* ****************************
+Baic setup
+*******************************/
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    font-family: 'Staatliches',sans-serif;
+
+}
+li{
+    list-style: none;
+    display: inline-block;
+
+}
+a{
+    text-decoration: none;
+
+}
+.container{
+    max-width: 1400px;
+    margin: 0 auto;
+    background-color: #fff;
+
+
+}
+/* ****************************
+        Header
+*******************************/
+body{
+    background-color: #2c3e50;
+
+}
+header h1{
+    text-align: center;
+    color: #2c3e50;
+    padding: 20px 0;
+
+}
+header h1 span {
+    color: #ff1900;
+}
+/* ****************************
+        Nav- Menu
+*******************************/
+.nav-menu{
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #fafafa;
+
+}
+.nav-menu a {
+    color:#2c3e50;
+
+}
+.nav-menu a:hover {
+ color: #ff1900;
+
+}
+.nav-menu li{
+    padding: 20px;
+}
+/* ****************************
+        About
+*******************************/
+.about{
+    padding: 0 50px;
+}
+.about h2{
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 30px;
+    color: #ff1900;
+    margin: 30px 0;
+}
+.about p{
+    font-weight: 400;
+    color: #2c3e50;
+}
+.about h4{
+    color: #2c3e50;
+}
+.about a{
+    color: #ff1900;
+    font-weight: 700;
+}
+.about a:hover{
+    color: #2c3e50;
+}
+
+/* ****************************
+       show food
+*******************************/
+.fruit-sec {
+    margin-top: 80px;
+    padding: 0 70px;
+    display: flex;
+
+}
+.fruit{
+    margin-bottom: 30;
+    color: #2c3e50;
+    width: 100%;
+
+}
+.fruit .fruit-text {
+    padding: 10px;
+
+}
+.fruit-text h2{
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: 2px ;
+}
+
+footer{
+    background-color: #ff1900;
+    text-align: center;
+    color: #fff;
+    padding: 10px;
+}
